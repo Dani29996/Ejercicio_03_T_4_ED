@@ -14,8 +14,8 @@ public abstract class Vehiculo
     /**
      *  Variables de tipo String e Int
      */
-    String matricula;
-    int dias;
+     private String matricula;
+     private int dias;
     
 
     /**

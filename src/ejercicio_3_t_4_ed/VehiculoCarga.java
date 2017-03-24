@@ -15,7 +15,7 @@ public abstract class  VehiculoCarga extends Vehiculo
     /**
      * Variable de tipo double
      */
-    double tara;
+    private double tara;
 
     /**
      * Constructor por defecto
