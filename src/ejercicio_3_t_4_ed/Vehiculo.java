@@ -73,7 +73,7 @@ public abstract class Vehiculo
       * @return 
       */
      
-     public abstract double recibo();
+     public abstract void recibo();
      
      
      
