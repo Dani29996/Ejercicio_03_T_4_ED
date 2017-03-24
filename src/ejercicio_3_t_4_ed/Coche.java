@@ -47,7 +47,7 @@ public class Coche extends VehiculoTransporte
 
         System.out.println("-------------------- COCHE\n"
                 + "-------------------- ");
-        System.out.println("Informacion: ");
+        System.out.println("Información: ");
         super.recibo();
     }
 
